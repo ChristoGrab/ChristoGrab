@@ -2,7 +2,7 @@
 
 - 👋 Hi there, I’m Christo, an aspiring software engineer based out of Chicago, IL.
 - 👀 Some of my many interests include History, Traveling, Science Fiction, Theatre, Cooking, Astronomy, Video Games, and on and on the list goes!
-- 🌱 I'm currently working on learning to master the use of Flask with SQLAlchemy to construct a fully functional website using React and Redux for frontend
+- 🌱 I'm currently in the planning phases of a new project that will emulate the functionality of e-commerce site Etsy, with some grimdark flair thematically ☠️☠️
 - 📫 How to reach me: christo.grab@gmail.com or www.linkedin.com/in/christo-grabowski-894a82a6  
 
 ## Current Tech Stacks
