@@ -3,7 +3,6 @@
 - 👋 Hi there, I’m Christo, an aspiring software engineer based out of Chicago, IL.
 - 👀 Some of my many interests include History, Traveling, Science Fiction, Theatre, Cooking, Astronomy, Video Games, and on and on the list goes!
 - 🌱 I just graduated from App Academy's Software Engineering course, and I'm currently working on fleshing out my capstone project, a full-stack web app designed to emulate popular site Etsy, but set in the comically grim Warhammer 40K universe.
-- 📫 How to reach me: christo.grab@gmail.com or www.linkedin.com/in/christo-grabowski-894a82a6  
 
 ## Current Tech Stacks
 
@@ -20,3 +19,18 @@
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 
 **| [WTForms](https://wtforms.readthedocs.io/en/3.0.x/) | [SQLAlchemy](https://www.sqlalchemy.org/) | [Alembic](https://alembic.sqlalchemy.org/en/latest/) |**
+
+## Contact Me
+
+<div id="header" align="center">
+  <div id="badges">
+  
+  <a href="https://www.linkedin.com/in/christo-grabowski-894a82a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    
+  <a href="mailto:christo.grab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  </div>
+</div>
