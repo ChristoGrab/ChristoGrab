@@ -22,7 +22,7 @@
 
 ## Contact Me
 
-<div id="header" align="center">
+<div id="header">
   <div id="badges">
   
   <a href="https://www.linkedin.com/in/christo-grabowski-894a82a6" target="_blank">
