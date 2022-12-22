@@ -1,8 +1,10 @@
 # About Me
 
 - 👋 Hi there, I’m Christo, an aspiring software engineer based out of Chicago, IL.
-- 👀 Some of my many interests include History, Traveling, Science Fiction, Theatre, Cooking, Astronomy, Video Games, and on and on the list goes!
-- 🌱 I just graduated from App Academy's Software Engineering course, and I'm currently working on fleshing out my capstone project, a full-stack web app designed to emulate popular site Etsy, but set in the comically grim Warhammer 40K universe.
+- 🌱 I'm thrilled to announce that I just graduated from App Academy's intensive full-stack Software Engineering course!
+- 🧑‍💻 I'm currently working on fleshing out my capstone project, a full-stack web app based off of popular site Etsy, but set in the comically grim Warhammer 40K universe.
+- 👀 Some of my many interests outside software include History, Traveling, Science Fiction, Theatre, Cooking, Astronomy, Video Games, and on and on the list goes!
+- <a href="https://ChristoGrab.github.io/">Check out my portfolio!</a>
 
 ## Current Tech Stacks
 
