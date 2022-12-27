@@ -6,7 +6,7 @@
 - 👀 Some of my many interests outside software include History, Traveling, Science Fiction, Theatre, Cooking, Astronomy, Video Games, and on and on the list goes!
 - 🧳 One of my great loves in life is traveling. I recently spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
 - 🎭 Before switching focuses to pursue my passion for software, I was an actor in New York.  I performed in dozens of plays, indie films, and even a couple of voice-over spots.
-- <a href="https://ChristoGrab.github.io/">Check out my portfolio!</a>
+- <a href="https://ChristoGrab.github.io/">Take a look at my portfolio here!</a>
 
 ## Current Tech Stacks
 
