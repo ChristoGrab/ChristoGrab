@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&repeat=false&width=550&lines=Hi+there!+I'm+Christo%2C+nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🌱 I'm thrilled to announce that I recently graduated from App Academy's intensive full-stack Software Engineering course!  I'm continuing to pursue my studies independently as I seek my first role as a Software Engineer, and am leveling up by learning to utilize TypeScript.
-- 🧑‍💻 I'm currently working on my first freelance contract for a small business in Long Island, NY.  Although I'm seeking a full-time role as a developer, there's no substitute for real-world experience, and no time like the present to gain that experience.
+- 🧑‍💻 I'm currently working on my first freelance contract for Cedar Meadow, a small business in Long Island, NY.  Although I'm seeking a full-time role as a developer, there's no substitute for real-world experience, and no time like the present to gain that experience.
 - 🎭 Before switching focuses to pursue my passion for software, I was an actor in New York.  I performed in dozens of plays, indie films, and even a couple of voice-over spots.
 - 🧳 One of my great loves in life is traveling. I recently spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
 - 👀 Some of my many other interests outside software include history, science fiction, cooking, video games, and on and on the list goes!
