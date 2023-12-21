@@ -3,15 +3,15 @@
 - 🧑‍💻 I'm currently working as a full-time contractor for [Airbyte](https://airbyte.com/). My responsibilities include updating existing Certified connectors to ensure parity with competitors and adherence to internal standards of quality, as well as updating and improving user-facing documentation for critical source connectors.
 - 🌱 After graduating from App Academy's intensive Software Engineering program in December 2022, I've continued to grow every day, first as a freelance web developer and now through my work with Airbyte.
 - 🎭 Before switching focuses to pursue my passion for software, I was an actor in New York.  I performed in dozens of plays, indie films, and even a couple of commercial voice-over spots.
-- 🧳 One of my great loves in life is traveling. I recently spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
+- 🧳 One of my great loves in life is traveling. Two years ago I spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
 - 👀 Some of my many other interests outside software include history, science fiction, cooking, video games, and on and on the list goes!
 - <a href="https://ChristoGrab.github.io/">Take a look at my portfolio here!</a>
 
 ## Current Tech Stacks
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Libraries/Tools/Frameworks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
