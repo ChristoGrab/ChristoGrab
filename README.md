@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&repeat=false&width=550&lines=Hi+there!+I'm+Christo%2C+nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🧑‍💻 I'm currently working as a full-time contractor for [Airbyte](https://airbyte.com/). My responsibilities include updating existing Certified connectors to ensure parity with competitors and adherence to internal standards of quality, as well as updating and improving user-facing documentation for critical source connectors.
+- 🧑‍💻 I'm currently working as a full-time contractor for [Airbyte](https://airbyte.com/), embedded in the Critical Connectors team. We take ownership of the largest, toughest source connectors, working to consistenly improve efficiency and reliability while addressing the needs and concerns of some of our most important clients.
 - 🌱 After graduating from App Academy's intensive Software Engineering program in December 2022, I've continued to grow every day, first as a freelance web developer and now through my work with Airbyte.
 - 🎭 Before switching focuses to pursue my passion for software, I was an actor in New York.  I performed in dozens of plays, indie films, and even a couple of commercial voice-over spots.
 - 🧳 One of my great loves in life is traveling. Two years ago I spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
