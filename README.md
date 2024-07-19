@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&repeat=false&width=550&lines=Hi+there!+I'm+Christo%2C+nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🧑‍💻 I'm currently working as a full-time contractor for [Airbyte](https://airbyte.com/), embedded in the Critical Connectors team. We take ownership of the largest, toughest source connectors, working to consistenly improve efficiency and reliability while addressing the needs and concerns of some of our most important clients.
-- 🌱 After graduating from App Academy's intensive Software Engineering program in December 2022, I've continued to grow every day, first as a freelance web developer and now through my work with Airbyte.
+- 🧑‍💻 I'm currently working as a full-time contractor for [Airbyte](https://airbyte.com/), embedded in the Marketplace & Contributions team. We take ownership of the long-tail community connectors in our ever-growing catalog by leveraging the speed and simplicity of the Connector Builder.
+- 🌱 After graduating from App Academy's intensive Software Engineering program in December 2022, I've continued to grow every day, first as a freelance web developer and now through my work with Airbyte. I've just begun jumping into the heady world of Java/Kotlin platform development, as well as building internal developer tools for our Python connector developers.
 - 🎭 Before switching focuses to pursue my passion for software, I was an actor in New York.  I performed in dozens of plays, indie films, and even a couple of commercial voice-over spots.
-- 🧳 One of my great loves in life is traveling. Two years ago I spent a life-changing four months backpacking with my partner through the entirety of Central America, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City.
+- 🧳 One of my great loves in life is traveling. I spent a life-changing four months backpacking with my partner through the entirety of Central America in 2022, starting in Mexico City and working our way overland across 45 destinations in 8 countries until finally reaching Panama City. Since then we've explored Colombia and are eager to expand our horizons ever further.
 - 👀 Some of my many other interests outside software include history, science fiction, cooking, video games, and on and on the list goes!
 - <a href="https://ChristoGrab.github.io/">Take a look at my portfolio here!</a>
 
@@ -12,6 +12,8 @@
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Libraries/Tools/Frameworks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
